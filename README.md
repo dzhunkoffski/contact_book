@@ -1,2 +1,7 @@
-# contact_book
-This is a toy example of python project template. The student should create another branch, complete the project and then do PR.
+# Contact Book
+
+A simple template for a contact management app.
+
+## TODO
+- Implement add, list, and search features in `main.py`
+- Implement file save/load functions in `utils/file_io.py`
